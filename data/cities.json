@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Han Pijesak",
+      "country": "Bosnia and Herzegovina",
+      "emoji": "🇧🇦",
+      "date": "2023-08-29T07:38:52.418Z",
+      "notes": "Han Pijesak",
+      "position": {
+        "lat": "44.074646688758534",
+        "lng": "18.829901424269725"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Bileca",
+      "country": "Bosnia and Herzegovina",
+      "emoji": "🇧🇦",
+      "date": "2023-08-29T10:17:35.827Z",
+      "notes": "",
+      "position": {
+        "lat": "42.95988154297581",
+        "lng": "18.214457222946283"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Srbobran",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2023-08-29T10:36:55.487Z",
+      "notes": "",
+      "position": {
+        "lat": "45.57000084500683",
+        "lng": "19.817099795486808"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Ilulissat",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2023-08-29T10:37:29.790Z",
+      "notes": "",
+      "position": {
+        "lat": "77.17098359803407",
+        "lng": "-44.67944264999736"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Daneborg",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2023-08-29T10:37:35.669Z",
+      "notes": "",
+      "position": {
+        "lat": "74.07340589858677",
+        "lng": "-32.21493760475901"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Novi Sad",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2023-08-29T11:00:06.487Z",
+      "notes": "",
+      "position": {
+        "lat": "45.257779195011565",
+        "lng": "19.84114227783656"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Tarifa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-30T11:00:45.302Z",
+      "notes": "",
+      "position": {
+        "lat": "36.0720120542746",
+        "lng": "-5.5582929806042785"
+      },
+      "id": 98443205
+    }
+  ]
+}
